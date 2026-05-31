@@ -1,2 +1,2 @@
 # -Subspace-Product-Audit
-# Subspace Product Audit  This repository contains:  - Product analysis - 5 prioritised observations - Business impact assessment - Proposed solutions - Redesigned subscription sharing flow  Figma: https://www.figma.com/design/CzBF2bRejQOucospcqCbj7/Design-Ass?node-id=68-100&t=JLSY3Xev6kcZNJb5-1>  
+# Subspace Product Audit  This repository contains:  - Product analysis - 5 prioritised observations - Business impact assessment - Proposed solutions - subscription sharing flow  Figma: https://www.figma.com/design/CzBF2bRejQOucospcqCbj7/Design-Ass?node-id=68-100&t=JLSY3Xev6kcZNJb5-1>  
